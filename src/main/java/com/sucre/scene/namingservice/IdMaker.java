@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-import com.github.zkclient.ZkClient;
+import org.I0Itec.zkclient.ZkClient;
 
 public class IdMaker {
 
